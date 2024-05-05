@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: "https://author-p123884-e1338387.adobeaemcloud.com/bin/franklin.delivery/erikcavalcanti/boilerplate-commerce-dropins/main"
+    url: "https://author-p123884-e1338387.adobeaemcloud.com/bin/franklin.delivery/erikcavalcanti/eds-aem/main"
     type: "markup"
     suffix: ".html"
